@@ -1,0 +1,8 @@
+C:\Labs\kurs3\kurs3\kurs3\bin\Debug\kurs3.exe.config
+C:\Labs\kurs3\kurs3\kurs3\bin\Debug\kurs3.exe
+C:\Labs\kurs3\kurs3\kurs3\bin\Debug\kurs3.pdb
+C:\Labs\kurs3\kurs3\kurs3\obj\Debug\kurs3.csproj.AssemblyReference.cache
+C:\Labs\kurs3\kurs3\kurs3\obj\Debug\kurs3.csproj.SuggestedBindingRedirects.cache
+C:\Labs\kurs3\kurs3\kurs3\obj\Debug\kurs3.csproj.CoreCompileInputs.cache
+C:\Labs\kurs3\kurs3\kurs3\obj\Debug\kurs3.exe
+C:\Labs\kurs3\kurs3\kurs3\obj\Debug\kurs3.pdb

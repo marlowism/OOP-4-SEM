@@ -1,0 +1,15 @@
+C:\Labs\kurs2\kurs2\kurs2\bin\Debug\net6.0\kurs2.exe
+C:\Labs\kurs2\kurs2\kurs2\bin\Debug\net6.0\kurs2.deps.json
+C:\Labs\kurs2\kurs2\kurs2\bin\Debug\net6.0\kurs2.runtimeconfig.json
+C:\Labs\kurs2\kurs2\kurs2\bin\Debug\net6.0\kurs2.dll
+C:\Labs\kurs2\kurs2\kurs2\bin\Debug\net6.0\kurs2.pdb
+C:\Labs\kurs2\kurs2\kurs2\obj\Debug\net6.0\kurs2.csproj.AssemblyReference.cache
+C:\Labs\kurs2\kurs2\kurs2\obj\Debug\net6.0\kurs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\kurs2\kurs2\kurs2\obj\Debug\net6.0\kurs2.AssemblyInfoInputs.cache
+C:\Labs\kurs2\kurs2\kurs2\obj\Debug\net6.0\kurs2.AssemblyInfo.cs
+C:\Labs\kurs2\kurs2\kurs2\obj\Debug\net6.0\kurs2.csproj.CoreCompileInputs.cache
+C:\Labs\kurs2\kurs2\kurs2\obj\Debug\net6.0\kurs2.dll
+C:\Labs\kurs2\kurs2\kurs2\obj\Debug\net6.0\refint\kurs2.dll
+C:\Labs\kurs2\kurs2\kurs2\obj\Debug\net6.0\kurs2.pdb
+C:\Labs\kurs2\kurs2\kurs2\obj\Debug\net6.0\kurs2.genruntimeconfig.cache
+C:\Labs\kurs2\kurs2\kurs2\obj\Debug\net6.0\ref\kurs2.dll
